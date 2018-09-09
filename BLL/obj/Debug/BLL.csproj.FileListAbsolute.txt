@@ -1,0 +1,9 @@
+E:\Project\OnlineExaminationSystem-MVCProject\BLL\bin\Debug\BLL.dll
+E:\Project\OnlineExaminationSystem-MVCProject\BLL\bin\Debug\BLL.pdb
+E:\Project\OnlineExaminationSystem-MVCProject\BLL\bin\Debug\Models.dll
+E:\Project\OnlineExaminationSystem-MVCProject\BLL\bin\Debug\Repository.dll
+E:\Project\OnlineExaminationSystem-MVCProject\BLL\bin\Debug\Models.pdb
+E:\Project\OnlineExaminationSystem-MVCProject\BLL\bin\Debug\Repository.pdb
+E:\Project\OnlineExaminationSystem-MVCProject\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Project\OnlineExaminationSystem-MVCProject\BLL\obj\Debug\BLL.dll
+E:\Project\OnlineExaminationSystem-MVCProject\BLL\obj\Debug\BLL.pdb

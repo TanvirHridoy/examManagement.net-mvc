@@ -1,0 +1,16 @@
+E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\bin\Debug\DatabaseContext.dll
+E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\bin\Debug\DatabaseContext.pdb
+E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\bin\Debug\EntityFramework.dll
+E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\bin\Debug\Models.dll
+E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\bin\Debug\Models.pdb
+E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\bin\Debug\EntityFramework.xml
+E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\obj\Debug\DatabaseContext.dll
+E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\obj\Debug\DatabaseContext.pdb
+E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\obj\Debug\DatabaseContext.Migrations.initialmigration.resources
+E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
+E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\obj\Debug\DatabaseContext.Migrations.modelsupdatedforcourses.resources
+E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\obj\Debug\DatabaseContext.Migrations.modelstagsupdated.resources
