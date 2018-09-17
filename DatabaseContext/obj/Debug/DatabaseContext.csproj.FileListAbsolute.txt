@@ -14,3 +14,19 @@ E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\obj\Debug\Database
 E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
 E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\obj\Debug\DatabaseContext.Migrations.modelsupdatedforcourses.resources
 E:\Project\OnlineExaminationSystem-MVCProject\DatabaseContext\obj\Debug\DatabaseContext.Migrations.modelstagsupdated.resources
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\DatabaseContext\bin\Debug\DatabaseContext.dll
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\DatabaseContext\bin\Debug\DatabaseContext.pdb
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\DatabaseContext\bin\Debug\Models.dll
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\DatabaseContext\bin\Debug\Models.pdb
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\DatabaseContext\obj\Debug\DatabaseContext.Migrations.initialmigration.resources
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\DatabaseContext\obj\Debug\DatabaseContext.Migrations.modelsupdatedforcourses.resources
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\DatabaseContext\obj\Debug\DatabaseContext.Migrations.modelstagsupdated.resources
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\DatabaseContext\obj\Debug\DatabaseContext.dll
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\DatabaseContext\obj\Debug\DatabaseContext.pdb

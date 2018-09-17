@@ -3,3 +3,8 @@ E:\Project\OnlineExaminationSystem-MVCProject\Models\bin\Debug\Models.pdb
 E:\Project\OnlineExaminationSystem-MVCProject\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
 E:\Project\OnlineExaminationSystem-MVCProject\Models\obj\Debug\Models.dll
 E:\Project\OnlineExaminationSystem-MVCProject\Models\obj\Debug\Models.pdb
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\Models\bin\Debug\Models.dll
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\Models\bin\Debug\Models.pdb
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\Models\obj\Debug\Models.dll
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\Models\obj\Debug\Models.pdb

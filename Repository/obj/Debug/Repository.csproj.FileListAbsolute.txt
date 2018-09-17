@@ -9,3 +9,14 @@ E:\Project\OnlineExaminationSystem-MVCProject\Repository\bin\Debug\EntityFramewo
 E:\Project\OnlineExaminationSystem-MVCProject\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
 E:\Project\OnlineExaminationSystem-MVCProject\Repository\obj\Debug\Repository.dll
 E:\Project\OnlineExaminationSystem-MVCProject\Repository\obj\Debug\Repository.pdb
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\Repository\bin\Debug\Repository.dll
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\Repository\bin\Debug\Repository.pdb
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\Repository\bin\Debug\DatabaseContext.dll
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\Repository\bin\Debug\Models.dll
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\Repository\bin\Debug\EntityFramework.dll
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\Repository\bin\Debug\DatabaseContext.pdb
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\Repository\bin\Debug\Models.pdb
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\Repository\bin\Debug\EntityFramework.xml
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\Repository\obj\Debug\Repository.dll
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\Repository\obj\Debug\Repository.pdb

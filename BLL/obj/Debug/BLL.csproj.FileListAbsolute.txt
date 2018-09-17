@@ -7,3 +7,12 @@ E:\Project\OnlineExaminationSystem-MVCProject\BLL\bin\Debug\Repository.pdb
 E:\Project\OnlineExaminationSystem-MVCProject\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 E:\Project\OnlineExaminationSystem-MVCProject\BLL\obj\Debug\BLL.dll
 E:\Project\OnlineExaminationSystem-MVCProject\BLL\obj\Debug\BLL.pdb
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\BLL\bin\Debug\BLL.dll
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\BLL\bin\Debug\BLL.pdb
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\BLL\bin\Debug\Models.dll
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\BLL\bin\Debug\Repository.dll
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\BLL\bin\Debug\Models.pdb
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\BLL\bin\Debug\Repository.pdb
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\BLL\obj\Debug\BLL.dll
+C:\Users\TanvirHridoy\Desktop\new project\examManagement.net-mvc\BLL\obj\Debug\BLL.pdb
